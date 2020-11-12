@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-B2KSansBOT-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/B2KSansBOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-B2KSansBOT-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
@@ -36,7 +36,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
+> git clone https://github.com/B2KSansBOT/bot-whatsapp.git
 > cd whatsapp-bot
 ```
 
@@ -72,82 +72,82 @@ pls dont remove my github link:)
 
 | Creator |Yes|
 | ------------- | ------------- |
-| Respond img to sticker|âœ…|
-| Respond img to sticker no bg|âœ…|
-| Respond url to sticker|âœ…|
-| Respond gif to sticker|âœ…|
-| Respond giphy url to sticker|âœ…|
-| Make a meme from photo|âœ…|
-| Quotes maker result pict|âœ…|
-| Nulis Bot|âœ…|
+| Respond img to sticker|✅|
+| Respond img to sticker no bg|✅|
+| Respond url to sticker|✅|
+| Respond gif to sticker|✅|
+| Respond giphy url to sticker|✅|
+| Make a meme from photo|✅|
+| Quotes maker result pict|✅|
+| Nulis Bot|✅|
 
 | Islam |Yes|
 | ------------- | ------------- |
-| List Surah|âœ…|
-| Info Surah|âœ…|
-| Surah|âœ…|
-| Tafsir Alquran|âœ…|
-| Alquran Audio/Voice|âœ…|
-| Jadwal solat|âœ…|
+| List Surah|✅|
+| Info Surah|✅|
+| Surah|✅|
+| Tafsir Alquran|✅|
+| Alquran Audio/Voice|✅|
+| Jadwal solat|✅|
 
 | Downloader |Yes|
 | ------------- | ------------- |
-| Instagram |âœ…|
-| Youtube Music |âœ…|
-| Youtube Video |âœ…|
+| Instagram |✅|
+| Youtube Music |✅|
+| Youtube Video |✅|
 
 | Searchs |Yes|
 | ------------- | ------------- |
-| Images |âœ…|
-| Subreddit |âœ…|
-| Resep makanan |âœ…|
-| Nekopoi links |âœ…|
-| Stalk IG |âœ…|
-| Wikipedia |âœ…|
-| Cuaca |âœ…|
-| Chord music |âœ…|
-| Screen Crot!|âœ…|
-| Play music|âœ…|
+| Images |✅|
+| Subreddit |✅|
+| Resep makanan |✅|
+| Nekopoi links |✅|
+| Stalk IG |✅|
+| Wikipedia |✅|
+| Cuaca |✅|
+| Chord music |✅|
+| Screen Crot!|✅|
+| Play music|✅|
 
 | Random text |Yes|
 | ------------- | ------------- |
-| Pantun pakboy|âœ…|
-| Fakta Menarik|âœ…|
-| Kata Bijak|âœ…|
-| Quotes|âœ…|
+| Pantun pakboy|✅|
+| Fakta Menarik|✅|
+| Kata Bijak|✅|
+| Quotes|✅|
 
 | Random image |Yes|
 | ------------- | ------------- |
-| Anime |âœ…|
-| Kpop |âœ…|
-| Memes |âœ…|
+| Anime |✅|
+| Kpop |✅|
+| Memes |✅|
 
 
 | Others |Yes|
 | ------------- | ------------- |
-| Teks to Sound/Voice|âœ…|
-| Translate teks|âœ…|
-| Get covid info from map|âœ…|
-| Shortlink|âœ…|
+| Teks to Sound/Voice|✅|
+| Translate teks|✅|
+| Get covid info from map|✅|
+| Shortlink|✅|
 
 | Groups |Yes|
 | ------------- | ------------- |
 | Admin||
-| Add user|âœ…|
-| Kick user|âœ…|
-| Promote User|âœ…|
-| Demote User|âœ…|
-| Delete bot msg|âœ…|
-| Tagall/mentions all|âœ…|
-| Owner||
-| Kick all members|âœ…|
+| Add user|✅|
+| Kick user|✅|
+| Promote User|✅|
+| Demote User|✅|
+| Delete bot msg|✅|
+| Tagall/mentions all|✅|
+| Owner|✅|
+| Kick all members|✅|
 
 | Owner bot |Yes|
 | ------------- | ------------- |
-| Broadcast|âœ…|
-| Leave all group|âœ…|
-| Delete all msgs|âœ…|
-| Banned user|âœ…|
+| Broadcast|✅|
+| Leave all group|✅|
+| Delete all msgs|✅|
+| Banned user|✅|
 
 
 ## To-Do
