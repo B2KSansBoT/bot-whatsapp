@@ -15,7 +15,7 @@
 </p>
 <div align="center">
 <details>
- <summary>B2KSansBOT Help me!</summary>
+ <summary>¶¶¶¶ Help me!</summary>
  
  
 </details>
