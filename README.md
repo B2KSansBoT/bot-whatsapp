@@ -2,7 +2,7 @@
 <img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Bot-Whatsapp" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/B2KSansBOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-B2KSansBOT-orange.svg?style=for-the-badge&logo=github"></a>
@@ -20,7 +20,6 @@
 <details>
  <summary>ðŸ¥Ÿ Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
  
 </details>
 
@@ -35,26 +34,29 @@ This project require NodeJS v12.
 ### Install
 Clone this project
 
+### Alat dan Bahan
+Siapin alat dan bahannya.
 ```bash
+> niat
+> 2 handphone (1 buat jalanin sc, 1 buat scan qr)
+> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> aplikasi whatsapp
+> aplikasi termux
+> kopi
+```
+
+### Cara Installnya
+Sebelum lu jalanin sc nya install dulu lah.
+```bash
+> kalo lu belum punya apk termux, download di playstore
+> masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/B2KSansBOT/bot-whatsapp.git
-> cd whatsapp-bot
+> cd bot-whatsapp
+> bash install.sh
+> node index.js
+> Tinggal scan qr dah
 ```
 
-Install the dependencies:
-
-```bash
-> npm install 
-> npm install gify-cli -g
-```
-
-### Usage
-Run the Whatsapp bot
-
-```bash
-> npm start
-```
-
-after running it you need to scan the qr
 
 ### Information
 - Change ownerNumber on settings/setting.json
